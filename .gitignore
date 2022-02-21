@@ -79,7 +79,6 @@ ehthumbs.db
 $RECYCLE.BIN/
 Icon?
 
-# Obsidain
-.obsidian.vault-statsobsidian.css
-
-
+# Obsidian
+*.obsidian
+*.obsidian/*.vault-statsobsidian.css
