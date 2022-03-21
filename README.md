@@ -34,3 +34,6 @@ TBC
 - Branches can come and go. You can create as many branches as you need for working on specific sections, and once the changes you made are merged back to the `main`, you can delete them. Make a new branch when you work on the next issue.
 - **IMPORTANT**: please `squash` your commits into a single one before sending pull request. This helps the reviewer view only one set of differences.
 - **VERY IMPORTANT**: each time **BEFORE** you start working on your branch, make sure you fetch and merge any changes that occurred on the `main` to your working branch.
+
+## Making content accessible
+- For guidelines on how to make digital content accessible for individuals with auditory, cognitive, physical, speech, and visual impairments, see [https://www.vic.gov.au/make-content-accessible](https://www.vic.gov.au/make-content-accessible "https://www.vic.gov.au/make-content-accessible")
