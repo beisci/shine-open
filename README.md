@@ -7,9 +7,10 @@ TBC
 
 # Read-me-first for staff
 ## Checks and training
-- [Working with Children Check](https://www.workingwithchildren.vic.gov.au)
-- [Good Clinical Practice training](https://www.sbm.org/training/good-clinical-practice-for-social-and-behavioral-research-elearning-course)
+- `Required` [Working with Children Check](https://www.workingwithchildren.vic.gov.au)
+- `Required` [Good Clinical Practice training](https://www.sbm.org/training/good-clinical-practice-for-social-and-behavioral-research-elearning-course)
 - [Consumer and Community Involvement training](https://monashpartners.org.au/education-training-and-events/cci/)
+- [Guidelines on creating accessible content](https://www.vic.gov.au/make-content-accessible) for individuals with auditory, cognitive, physical, speech, and visual impairments
 - TBC
 
 ## Git
@@ -34,6 +35,3 @@ TBC
 - Branches can come and go. You can create as many branches as you need for working on specific sections, and once the changes you made are merged back to the `main`, you can delete them. Make a new branch when you work on the next issue.
 - **IMPORTANT**: please `squash` your commits into a single one before sending pull request. This helps the reviewer view only one set of differences.
 - **VERY IMPORTANT**: each time **BEFORE** you start working on your branch, make sure you fetch and merge any changes that occurred on the `main` to your working branch.
-
-## Making content accessible
-- For guidelines on how to make digital content accessible for individuals with auditory, cognitive, physical, speech, and visual impairments, see [https://www.vic.gov.au/make-content-accessible](https://www.vic.gov.au/make-content-accessible "https://www.vic.gov.au/make-content-accessible")
