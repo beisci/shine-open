@@ -67,8 +67,8 @@ ___
 
 |                          |                                       | 
 | ------------------------ | ------------------------------------- |
-| ![](Images/monash.png)   | ![|200](Images/Monash_health.png)         |
-| ![](Images/Stanford.png) | ![](Images/Royal-Womens-Hospital.png) |
+| ![\|200](Images/monash.png)   | ![\|200](Images/Monash_health.png)         |
+| ![\|200](Images/Stanford.png) | ![\|200](Images/Royal-Womens-Hospital.png) |
 
 
 
