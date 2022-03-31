@@ -69,7 +69,12 @@ To express your interest in the role, please follow this [link](https://monash.a
 
 ___
 
-![|190x100](Images/monash.png) ![|190x100](Images/Monash_health.png) ![|210x100](Images/Stanford.png) ![|220x100](Images/Royal-Womens-Hospital.png)
+|                          |                                       | 
+| ------------------------ | ------------------------------------- |
+| ![](Images/monash.png)   | ![](Images/Monash_health.png)         |
+| ![](Images/Stanford.png) | ![](Images/Royal-Womens-Hospital.png) |
+
+
 
 
 
