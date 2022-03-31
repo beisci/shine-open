@@ -1,7 +1,3 @@
----
-banner: Images/markus-winkler-7iSEHWsxPLw-unsplash.jpg
-banner_y: 0.456
----
 
 # Position Description for Community Advisory Committee Member
 
