@@ -1,8 +1,7 @@
 ---
-banner: "![[markus-winkler-7iSEHWsxPLw-unsplash.jpg]]"
+banner: Images/markus-winkler-7iSEHWsxPLw-unsplash.jpg
 banner_y: 0.456
 ---
-
 
 # Position Description for Community Advisory Committee Member
 
@@ -70,8 +69,7 @@ To express your interest in the role, please follow this [link](https://monash.a
 
 ___
 
-![190x100](Images/monash.png)  ![190x100](Images/Monash_health.png) ![210x100](Images/Stanford.png)
+![|190x100](Images/monash.png) ![|190x100](Images/Monash_health.png) ![|210x100](Images/Stanford.png) ![|220x100](Images/Royal-Womens-Hospital.png)
 
-![[monash.png|190x100]]  ![[Monash_health.png|190x100]] ![[Stanford.png|210x100]] <center>![[Royal-Womens-Hospital.png|220x100]]</center>
 
 
