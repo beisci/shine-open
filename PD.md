@@ -7,7 +7,7 @@
 | Support        | This is a voluntary position and is supported by the Community Involvement Coordinator.                                                                                                                                                                                                                                                                          |
 | Reimbursement  | If a member accepts an honorarium, they will be paid $50 an hour for attending meetings and carrying out other related activities. This honorarium can be paid as a voucher, charity donation, etc. Out-of-pocket expenses (e.g. travel, home office set-up, child care expenses) and Consumer and Community Involvement training is covered but will be capped. |
 | Membership     | Members can withdraw their membership at any time and there is no need to provide a reason. Prior notice would be appreciated. Memberships are on 1-year terms, and can be renewed by mutual agreement between the advisory member and SHINE project.                                                                                                                                                                                                                                                                                                            |
-| Contact        | Cornelia Wellecke (SHINE Community Engagement Lead)                                                                                                                                                                                                                                                                                                                                                                  |
+| Contact        | psych-shine@monash.edu                                                                                                                                                                                                                                                                                                                                                                 |
  
 
 ### Sleep Health in Perinatal Care (SHINE) ⭐
@@ -32,7 +32,7 @@ The following provides an overview of the tasks involved in the Community Adviso
 	- the design of research processes
 	- the evaluation of research outcomes
 	- how findings are provided to the community
-- Meetings will be audio-taped for accurate minute taking. Minutes will only be circulated internally. Minutes will not be used outside of the team unless members approve.
+- Meetings will be recorded for accurate minute taking. Minutes will only be circulated internally. Minutes will not be used outside of the team unless members approve.
 - If a member is uncomfortable with audio-taping, they can opt-out of their content being used in minutes.
 - Members can take breaks anytime and opt out from participating in certain agenda items or topics.
 
@@ -50,10 +50,10 @@ The following provides an overview of the tasks involved in the Community Adviso
 
 ___
 
-### Who should apply? 🔍
+### Who can apply? 🔍
 You can apply for the position if you are:
 - Aged 18 years or older.
-- Have lived experience of being a new parent or being a health care staff providing support for new parents. 
+- Have lived experience of being a new parent or being a health care staff providing care or support for new parents. 
 - Are able to attend online meetings.
 
 Previous experience in contributing knowledge and expertise of consumer, carer and community perspectives (e.g. in advisory groups, improvement projects and community engagement) is desirable but not required.
