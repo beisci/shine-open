@@ -64,13 +64,4 @@ Previous experience in contributing knowledge and expertise of consumer, carer a
 To express your interest in the role, please follow this [link](https://monash.az1.qualtrics.com/jfe/form/SV_6VTnmjSgSlsJI58).
 
 ___
-
-|                          |                                       | 
-| ------------------------ | ------------------------------------- |
-| ![\|200](Images/monash.png)   | ![\|200](Images/Monash_health.png)         |
-| ![\|200](Images/Stanford.png) | ![\|200](Images/Royal-Womens-Hospital.png) |
-
-
-
-
-
+![Logos](Images/combo.png)
