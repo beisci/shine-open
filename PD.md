@@ -1,3 +1,9 @@
+---
+banner: "![[markus-winkler-7iSEHWsxPLw-unsplash.jpg]]"
+banner_y: 0.456
+---
+
+
 # Position Description for Community Advisory Committee Member
 
 | Position Title | Community Advisory Committee Member                                                                                                                                                                                                                                                                                                                              |
@@ -61,3 +67,10 @@ Previous experience in contributing knowledge and expertise of consumer, carer a
 
 ### How can I apply? ✏️
 To express your interest in the role, please follow this [link](https://monash.az1.qualtrics.com/jfe/form/SV_6VTnmjSgSlsJI58).
+
+___
+
+
+![[monash.png|190x100]]  ![[Monash_health.png|190x100]] ![[Stanford.png|210x100]] <center>![[Royal-Womens-Hospital.png|220x100]]</center>
+
+
