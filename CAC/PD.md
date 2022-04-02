@@ -64,4 +64,4 @@ Previous experience in contributing knowledge and expertise of consumer, carer a
 To express your interest in the role, please follow this [link](https://monash.az1.qualtrics.com/jfe/form/SV_6VTnmjSgSlsJI58).
 
 ___
-![Logos](Images/combo.png)
+![Logos](https://raw.githubusercontent.com/beisci/shine-open/main/Images/combo.png)
