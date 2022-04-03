@@ -26,7 +26,7 @@ Questions or comment: bei.bei@monash.edu
 ## Files, formats, and naming conventions
 - **IMPORTANT**: This repo is open to the public. Do not commit personally identifiable information to this repo.
 - Use plain text (e.g., `*.md`, `*.txt`, `*.R`, `*.Rmd`) as much as possible to allow detailed version control. Only use other formats (e.g., `*.docx`, `*.pdf`) when necessary.
-- Stick to strict folder/file naming convention. Problems with folder/file naming could lead to data loss. Thoroughly read [this link here](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming). Do not use special characters, period, or spaces. You can use `-` (dash) or `_` (underscore) instead.
+- Stick to strict folder/file naming convention. Problems with folder/file naming could lead to data loss.  Read [this link here](https://developers.google.com/style/filenames). Do not use special characters, period, or spaces. You can use `-` (dash) or `_` (underscore) instead. Try to use **lowercase** only, especially folders.
 - R object naming conventions are different from folder and file naming. See [this R code convention](https://google.github.io/styleguide/Rguide.xml). In naming R objects, such as a data.table or variable, period `.` (not `_`) as a separator is the convention. Please also check out the [File Names](https://google.github.io/styleguide/Rguide.xml#filenames) and [Identifies](https://google.github.io/styleguide/Rguide.xml#identifiers) sections of the link above.
 
 ## How to work with a repo?
