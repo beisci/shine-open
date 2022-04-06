@@ -35,4 +35,4 @@ Questions or comment: bei.bei@monash.edu
 - When you work on a specific issue, make a branch from the `main`, and send pull request to merge your commits into the `main`.
 - Branches can come and go. You can create as many branches as you need for working on specific sections, and once the changes you made are merged back to the `main`, you can delete them. Make a new branch when you work on the next issue.
 - Please `squash` your commits into a single one before sending pull request. This helps the reviewer view only one set of differences.
-- **IMPORTANT**: each time **BEFORE** you start working on your branch, make sure you fetch and merge any changes that occurred on the `main` to your working branch.
+- **IMPORTANT**: each time **BEFORE** you start working on your branch, make sure you fetch and merge any changes that occurred.
