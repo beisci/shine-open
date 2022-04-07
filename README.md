@@ -14,6 +14,16 @@ Questions or comment: bei.bei@monash.edu
 - [Guidelines on creating accessible content](https://www.vic.gov.au/make-content-accessible) for individuals with auditory, cognitive, physical, speech, and visual impairments.
 - TBC
 
+## Systems to access
+- Github
+- Microsoft Teams
+- [REDCap](https://redcap.helix.monash.edu), request [new users](https://www.monash.edu/esolutions/systems/access-and-use)
+- S Drive
+- [Zoom phone](https://www.monash.edu/esolutions/phones/zoom-phone)
+- Ethics
+- Sleep and Circadian Rhythm mailing list, seminar program
+- Building access
+
 ## Git
 - [Learn basics](https://lab.github.com/githubtraining/introduction-to-github) from [Github Learning Lab](https://lab.github.com/). 
 - [Student resources from GitKraken](https://www.gitkraken.com/resources/student-resources) have a [nice collection of videos](https://www.gitkraken.com/learn/git/tutorials) explaining git concepts, and [how to use GitKraken with GitHub](https://www.gitkraken.com/integrations/github).
@@ -35,4 +45,4 @@ Questions or comment: bei.bei@monash.edu
 - When you work on a specific issue, make a branch from the `main`, and send pull request to merge your commits into the `main`.
 - Branches can come and go. You can create as many branches as you need for working on specific sections, and once the changes you made are merged back to the `main`, you can delete them. Make a new branch when you work on the next issue.
 - Please `squash` your commits into a single one before sending pull request. This helps the reviewer view only one set of differences.
-- **IMPORTANT**: each time **BEFORE** you start working on your branch, make sure you fetch and merge any changes that occurred on the `main` to your working branch.
+- **IMPORTANT**: each time **BEFORE** you start working on your branch, make sure you fetch and merge any changes that occurred.
