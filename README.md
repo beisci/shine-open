@@ -8,7 +8,7 @@ Questions or comment: bei.bei@monash.edu
 # Read-me-first for staff
 ## Checks and training
 - `Required` [Working with Children Check](https://www.workingwithchildren.vic.gov.au)
-- `Required` [Good Clinical Practice training](https://www.sbm.org/training/good-clinical-practice-for-social-and-behavioral-research-elearning-course)
+- `Required` Good Clinical Practice training: [Monash Partners](https://monashpartners.org.au/education-training-and-events/good-clinical-practice-in-clinical-trials/), [SBM Online](https://www.sbm.org/training/good-clinical-practice-for-social-and-behavioral-research-elearning-course)
 - [Consumer and Community Involvement training](https://monashpartners.org.au/education-training-and-events/cci/)
 - [safeTALK](https://www.monash.edu/students/support/health/mental-health/programs/safetalk-suicide-awareness) and [ASSIST](https://www.livingworks.com.au/programs/asist/)
 - [Guidelines on creating accessible content](https://www.vic.gov.au/make-content-accessible) for individuals with auditory, cognitive, physical, speech, and visual impairments.
@@ -17,8 +17,8 @@ Questions or comment: bei.bei@monash.edu
 ## Systems to access
 - Github
 - Microsoft Teams
-- [REDCap](https://redcap.helix.monash.edu), request [new users](https://www.monash.edu/esolutions/systems/access-and-use)
-- S Drive
+- [REDCap](https://redcap.helix.monash.edu), if new user, admin to [request access](https://www.monash.edu/esolutions/systems/access-and-use)
+- [S Drive](https://www.monash.edu/esolutions/data-storage/how-to-map-s-drive)
 - [Zoom phone](https://www.monash.edu/esolutions/phones/zoom-phone)
 - Ethics
 - Sleep and Circadian Rhythm mailing list, seminar program
