@@ -53,4 +53,5 @@ Membership may be terminated before the one-year term if:
 - A member no longer wishes to take part in the community advisory committee.
 - A member does not contribute sufficiently or appropriately to the project, or breached the terms of the CAC membership. The research team will endeavour to take all other measures (e.g., discussion, conflict resolution) before a termination of membership is considered under these circumstances. 
 
-(insert logos)
+___
+![Logos](https://raw.githubusercontent.com/beisci/shine-open/main/Images/combo.png)
