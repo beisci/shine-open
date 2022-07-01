@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-title: SHINE (Sleep Health in Perinatal Care)
-description: Home page for the SHINE study
+title: Sleep Health in Perinatal Care (SHINE)
 future: true
 show_downloads: false
+github:
+  zip_url: https://www.monash.edu/turner-institute/bei-bei-lab
