@@ -15,8 +15,8 @@ Questions or comment: bei.bei@monash.edu
 - TBC
 
 ## Systems to access
-- Github
-- Microsoft Teams
+- [Github](https://github.com/), we require all staff to enable [multi-factor authentification](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication). Please also request a free `Pro` account via Github Education [students](https://education.github.com/students) or [teachers](https://education.github.com/teachers) programs.
+- [Microsoft Teams](https://www.microsoft.com/en-au/microsoft-teams/)
 - [REDCap](https://redcap.helix.monash.edu), if new user, admin to [request access](https://servicedeskonline-myit.onbmc.com/dwp/app/#/srm/profile/SRGAA5V0G7HC6AOIWNGLOIBI7PHY36/srm)
 - [S Drive](https://www.monash.edu/esolutions/data-storage/how-to-map-s-drive)
 - [Zoom phone](https://www.monash.edu/esolutions/phones/zoom-phone)
