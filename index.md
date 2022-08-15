@@ -1,5 +1,3 @@
-# SHINE: Sleep Health in Perinatal Care
-
 ## What is the SHINE Study investigating?
 The SHINE Study follows parents from pregnancy through to their child's 2nd birthday. 
 
