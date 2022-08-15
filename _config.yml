@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 name: Sleep Health in Perinatal Care (SHINE)
-title: null
+title: false
 description: A longitudinal research project for mothers, fathers, birthing and non-birthing parents
 future: true
 show_downloads: false
