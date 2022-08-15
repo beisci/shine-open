@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 .main-content {
-  h1 {
+  h2 {
    color: #174153;
  }
+}
+
+header {
+  display: none;
 }
