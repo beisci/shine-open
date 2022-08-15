@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 name: something
-title: false
+title: null
 description: A longitudinal research project for mothers, fathers, birthing and non-birthing parents
 future: true
 show_downloads: false
