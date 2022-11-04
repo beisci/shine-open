@@ -21,3 +21,8 @@ By understanding changes in sleep and the effectiveness of different programs fo
 ## About Us
 
 The SHINE study is collaboration between different Australian and international universites. The SHINE research team is made up of experienced researchers and clinical psychologists. 
+
+## SHINE Research Team
+
+Assoc. Prof. Bei Bei
+[[long.png]]
