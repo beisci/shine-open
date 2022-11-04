@@ -24,5 +24,10 @@ The SHINE study is collaboration between different Australian and international 
 
 ## SHINE Research Team
 
-Assoc. Prof. Bei Bei
 [[long.png]]
+Assoc. Prof. Bei Bei
+Prinicpal Investigator
+
+Meagan Crowther
+Research Lead
+
