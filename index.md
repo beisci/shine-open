@@ -20,29 +20,11 @@ Find out more via the Sign Up button above
 Help us understand how parents can be better supported as they welcome a new baby in to their families. Your participation will help inform future research to better support parents as their family grows.
 
 ## About Us
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-The SHINE study is collaboration between different Australian and international universites. The SHINE research team is made up of experienced researchers and clinical psychologists. 
-=======
-The SHINE study is collaboration between different Australian and international universites. The SHINE research team is made up of experienced researchers and clinical psychologists. 
-=======
 The SHINE study is collaboration between different Australian and international universites. 
 The SHINE research team is made up of experienced researchers and clinical psychologists. We are motivated to better understand how to support parents as they welcome a new baby to their family.
->>>>>>> gh-pages
 
 ## SHINE Research Team
 
-[[long.png]]
-<<<<<<< HEAD
-Assoc. Prof. Bei Bei
-Prinicpal Investigator
-
-Meagan Crowther
-Research Lead
-
->>>>>>> parent of 0ba79cf... website edits
-=======
 **Associate Professor Bei Bei**
 Prinicpal Investigator
 
@@ -64,4 +46,3 @@ Email: psych-shine@monash.edu
 Phone: +61 3 9905 2464
 
 
->>>>>>> gh-pages
