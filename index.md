@@ -1,4 +1,3 @@
-# SHINE: Sleep Health in Perinatal Care
 
 ## What is the SHINE Study investigating?
 The SHINE Study follows parents from pregnancy through to their child's 2nd birthday. 
@@ -15,19 +14,37 @@ We are seeking pregnant individuals (less then 32 weeks pregnant) and their pare
 * Have regular internet access
 * Are, or your partner is, less than 32 weeks pregnant
 
-## Why is the SHINE Study important?
-By understanding changes in sleep and the effectiveness of different programs for sleep health in new parents we can better support parents during this time of big change. Findings from this project will inform how perinatal sleep interventions could be further developed and implemented in perinatal care.
+Find out more via the Sign Up button above
+
+## Why join SHINE?
+Help us understand how parents can be better supported as they welcome a new baby in to their families. Your participation will help inform future research to better support parents as their family grows.
 
 ## About Us
 
-The SHINE study is collaboration between different Australian and international universites. The SHINE research team is made up of experienced researchers and clinical psychologists. 
+The SHINE study is collaboration between different Australian and international universites. 
+The SHINE research team is made up of experienced researchers and clinical psychologists. We are motivated to better understand how to support parents as they welcome a new baby to their family.
 
 ## SHINE Research Team
 
 [[long.png]]
-Assoc. Prof. Bei Bei
+**Associate Professor Bei Bei**
 Prinicpal Investigator
 
-Meagan Crowther
+**Meagan Crowther**
 Research Lead
+
+**Nina Quin**
+Clinical Lead
+
+**Elise Landau**
+Research Fellow
+
+## SHINE News
+
+-This area is currently under work-
+
+##Contact the SHINE Team
+Email: psych-shine@monash.edu
+Phone: +61 3 9905 2464
+
 
