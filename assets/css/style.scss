@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+.main-content {
+    h1 {
+	color: #F87D3F;
+    }
+    
+    h2 {
+	color: #174153;
+    }
+}
+
+.page-header {
+    background-color: #ffd194;
+    background-image: linear-gradient(120deg, #19547b, #ffd194);
+}
+
+.btn {
+    color: #FFFFFF;
+    border-color: #F87D3F;
+    background-color: #F87D3F;
+}
+
+#shine-sleep-health-in-perinatal-care{
+    display: none;
+}
