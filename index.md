@@ -25,7 +25,7 @@ Help us understand how parents can be better supported as they welcome a new bab
 The SHINE study is collaboration between different Australian and international universities. 
 The SHINE research team is made up of experienced researchers and clinical psychologists. We are motivated to better understand how to support parents as they welcome a new baby to their family.
 
-
+[[bei.bei.jpg]]
 **Associate Professor Bei Bei**
 Prinicpal Investigator
 
