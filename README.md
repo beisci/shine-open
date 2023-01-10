@@ -46,3 +46,9 @@ Questions or comment: bei.bei@monash.edu
 - Branches can come and go. You can create as many branches as you need for working on specific sections, and once the changes you made are merged back to the `main`, you can delete them. Make a new branch when you work on the next issue.
 - Please `squash` your commits into a single one before sending pull request. This helps the reviewer view only one set of differences.
 - **IMPORTANT**: each time **BEFORE** you start working on your branch, make sure you fetch and merge any changes that occurred.
+
+## What is `.gitignore`?
+- It is a (usually) hidden file that can be opened using any text editor. 
+- It is helpful to turn on "always show hidden files" to see all files being committed to a repo. Google how to do this and turn this on.
+- `.gitignore` contains files and directories that are **ignored** by git. This is very helpful for items like private notes, messy temporary hidden files, or sensitive data. Adding these items to the `.gitignore` file will tell git to automatically skip them, so they will not be committed to Github server online, or to collaborators.
+- A frequent use case is `/data` line being part of `.gitignore`. This way, we can store data locally in our repo without committing them to be shared with others.
