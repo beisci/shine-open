@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+name: something
+title: null
+description: A longitudinal research project for mothers, fathers, birthing and non-birthing parents
+future: true
+show_downloads: false
+google_analytics: G-KEQ3LQW3LN
+github:
+  repository_url: https://github.com/beisci/shine-open/tree/gh-pages
