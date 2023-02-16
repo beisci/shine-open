@@ -16,6 +16,7 @@ Questions or comment: bei.bei@monash.edu
 
 ## Systems to access
 - [Github](https://github.com/), we require all staff to enable [multi-factor authentification](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication). Please also request a free `Pro` account via Github Education [students](https://education.github.com/students) or [teachers](https://education.github.com/teachers) programs.
+- [Github Desktop](https://desktop.github.com/),  or [GitKracken](https://www.gitkraken.com/download) can make using GitHub easier
 - [Microsoft Teams](https://www.microsoft.com/en-au/microsoft-teams/).
 - [REDCap](https://redcap.helix.monash.edu), if new user, admin to [request access](https://servicedeskonline-myit.onbmc.com/dwp/app/#/srm/profile/SRGAA5V0G7HC6AOIWNGLOIBI7PHY36/srm).
 - S Drive: [setup information for users](https://www.monash.edu/esolutions/data-storage/how-to-map-s-drive); admin's [user management portal](https://groupadmin.monash.edu/) (VPN required).
@@ -26,6 +27,7 @@ Questions or comment: bei.bei@monash.edu
 
 ## Git
 - [Learn basics](https://github.com/skills/introduction-to-github) from [Github Skills](https://github.com/skills). 
+- [Basics for GitHub Desktop] (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
 - [Student resources from GitKraken](https://www.gitkraken.com/resources/student-resources) have a [nice collection of videos](https://www.gitkraken.com/learn/git/tutorials) explaining git concepts, and [how to use GitKraken with GitHub](https://www.gitkraken.com/integrations/github).
 - For a point and click git client, check out [Github Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop) or [GitKraken](https://www.gitkraken.com)
 
