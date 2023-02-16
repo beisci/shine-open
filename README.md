@@ -19,7 +19,7 @@ Questions or comment: bei.bei@monash.edu
 - [Github Desktop](https://desktop.github.com/),  or [GitKracken](https://www.gitkraken.com/download) can make using GitHub easier
 - [Microsoft Teams](https://www.microsoft.com/en-au/microsoft-teams/).
 - [REDCap](https://redcap.helix.monash.edu), if new user, admin to [request access](https://servicedeskonline-myit.onbmc.com/dwp/app/#/srm/profile/SRGAA5V0G7HC6AOIWNGLOIBI7PHY36/srm).
-- S Drive: [setup information for users](https://www.monash.edu/esolutions/data-storage/how-to-map-s-drive). You will need to be on the [Monash VPN](https://www.monash.edu/esolutions/network/vpn); admin's [user management portal](https://groupadmin.monash.edu/) (VPN required).
+- S Drive: [setup information for users](https://www.monash.edu/esolutions/data-storage/how-to-map-s-drive). You will need to be on the [Monash VPN](https://www.monash.edu/esolutions/network/vpn); admin's [user management portal](https://groupadmin.monash.edu/).
 - [Zoom phone](https://www.monash.edu/esolutions/phones/zoom-phone).
 - Ethics ([Monash Health](https://au.forms.ethicalreviewmanager.com/Account/Login)).
 - Sleep and Circadian Rhythm mailing list, seminar program.
