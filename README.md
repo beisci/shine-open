@@ -56,6 +56,4 @@ Questions or comment: bei.bei@monash.edu
 - A frequent use case is `/data` line being part of `.gitignore`. This way, we can store data locally in our repo without committing them to be shared with others.
 
 
-
-
-TEST
+TESTing 
