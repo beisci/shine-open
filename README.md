@@ -54,3 +54,8 @@ Questions or comment: bei.bei@monash.edu
 - It is helpful to turn on "always show hidden files" to see all files being committed to a repo. Google how to do this and turn this on.
 - `.gitignore` contains files and directories that are **ignored** by git. This is very helpful for items like private notes, messy temporary hidden files, or sensitive data. Adding these items to the `.gitignore` file will tell git to automatically skip them, so they will not be committed to Github server online, or to collaborators.
 - A frequent use case is `/data` line being part of `.gitignore`. This way, we can store data locally in our repo without committing them to be shared with others.
+
+
+
+
+TEST
