@@ -23,7 +23,8 @@ Questions or comment: bei.bei@monash.edu
 - [Zoom phone](https://www.monash.edu/esolutions/phones/zoom-phone).
 - Ethics ([Monash Health](https://au.forms.ethicalreviewmanager.com/Account/Login)).
 - Sleep and Circadian Rhythm mailing list, seminar program.
-- M-Pass for building access. [Apply for M-pass](https://www.monash.edu/students/support/connect/id/get) Apply for [Building Access](https://docs.google.com/forms/d/e/1FAIpQLScCjGpU3Shpf_n9xckEllv5jTuO04TT4cKYU_882rCLHNngZQ/viewform?fbzx=-3749602263306121787)
+- M-Pass: Monash Staff/Student card [Apply for M-pass](https://www.monash.edu/students/support/connect/id/get) 
+- With valid M-Pass apply for [Building Access](https://docs.google.com/forms/d/e/1FAIpQLScCjGpU3Shpf_n9xckEllv5jTuO04TT4cKYU_882rCLHNngZQ/viewform?fbzx=-3749602263306121787)
 
 ## Git
 - [Learn basics](https://github.com/skills/introduction-to-github) from [Github Skills](https://github.com/skills). 
