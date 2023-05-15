@@ -28,7 +28,7 @@ Questions or comment: bei.bei@monash.edu
 
 ## Git
 - [Learn basics](https://github.com/skills/introduction-to-github) from [Github Skills](https://github.com/skills). 
-- [Basics for GitHub Desktop] (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
+- [Basics for GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
 - [Student resources from GitKraken](https://www.gitkraken.com/resources/student-resources) have a [nice collection of videos](https://www.gitkraken.com/learn/git/tutorials) explaining git concepts, and [how to use GitKraken with GitHub](https://www.gitkraken.com/integrations/github).
 - For a point and click git client, check out [Github Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop) or [GitKraken](https://www.gitkraken.com)
 
